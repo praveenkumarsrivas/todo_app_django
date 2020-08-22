@@ -1,0 +1,76 @@
+.striker{
+    text-decoration: line-through;
+    color: rgb(223, 145, 0);
+    text-decoration-color: red;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.nonstriker{
+    color: rgb(22, 15, 1);
+    text-decoration-color: black;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+h1{
+    color: aliceblue;
+    /* border-radius: 10px;
+    background-color:black; */
+    font-style: italic;
+}
+body{
+background-color: #001712;
+background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.button1 {
+    display: block;
+    background: #d40707;
+    padding: 1px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin: 2px;
+}
+.button2 {
+    display: block;
+    background: rgb(10, 97, 148);
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    
+}
+
+.button3 {
+    display: block;
+    background: rgb(255, 157, 0);
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    
+}
+.button4 {
+    display: block;
+    background: rgb(0, 105, 49);
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    
+}
+a:hover {
+    color: white;
+}
+
+/* git add -A
+git commit -m "your-message"
+git push -f origin master */
