@@ -7,7 +7,7 @@
 ###### Functionality
 - Adding the task
 - Deleting the task
-- Dpdating the title of the task
+- Updating the title of the task
 - Marking the task completed/done
 - Marking the task undone
 
